@@ -6,4 +6,4 @@ The git log also provides a summary, which is a short run view of the history, c
 A: git log --patch; the items are color coded: the added items are in green and the subtracted items are in red
 
 3.	Q: What does HEAD refer to in the context of git? 
-A: The HEAD compares the working tree to the HEAD commit and it refers to the head that is currently active. It is also case sensitive ('head' in lowercase will refer to any named heads in the repository, as opposed to one that is currently active)
+A: The HEAD compares the working tree to the HEAD commit and it refers to the head that is currently active. It is also case sensitive ('head' in lowercase will refer to any named heads in the repository, as opposed to one that is currently active)   
